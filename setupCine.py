@@ -144,17 +144,17 @@ def registerData():
 
 def shortCut(urlDestionation):
     urlDestionation = urlDestionation.strip()
-    URL = "http://ouo.io/api/9qcOEcbH?s={}".format(urlDestionation)
+    URL = "http://ouo.io/api/key?s={}".format(urlDestionation)
     values = requests.get(URL).text	
     return values
 
 
 def saveDataCinema(listData):
     try:
-        conexion = pymysql.connect(host="remotemysql.com" , 
-                                        user="RSWlRVso2B", 
-                                        password="4tIvrhmBIN", 
-                                        db="RSWlRVso2B")
+        conexion = pymysql.connect(host="x" , 
+                                        user="x", 
+                                        password="x", 
+                                        db="x")
         try:
             with conexion.cursor() as cursor:
                 consulta = "INSERT INTO cine_gotto(codeCinema, linkTorrent, nameCinema, yearCinema, descriptionCinema, typesCinema, typeCinema, releaseCinema, directorCinema, actorsCinema, countryCinema, pathImgCinema, dateCreated, linkAccessOnedrive, linkAccessMega, linkAccessShortOnedrive, linkAccessShortMega, estado) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);"
@@ -167,16 +167,16 @@ def saveDataCinema(listData):
         print("Ocurrió un error al conectar: ", e)
     
 def saveDataExcelDrive(listData):
-    scope = ['https://spreadsheets.google.com/feeds','https://www.googleapis.com/auth/drive']
-    credencial = ServiceAccountCredentials.from_json_keyfile_name('./credencials/googleSheets/credencials.json',scope)
+    scope = ['x','x']
+    credencial = ServiceAccountCredentials.from_json_keyfile_name('./x.json',scope)
     gc = authorize(credencial)
-    wks = gc.open('DATA_CINE_GOTTO').sheet1
+    wks = gc.open('file_name').sheet1
     # 17
     wks.append_row(listData)
 
 
 def searchCinema(title):    
-    API_KEY = "4e42dcb7"
+    API_KEY = "x"
     payload = {'t': title, 'plot': 'full', 'r': 'json', 'apikey': API_KEY}
     values = requests.get(URL, params=payload).json()
     return values["Response"], values

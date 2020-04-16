@@ -1,12 +1,12 @@
 {
     "type": "service_account",
-    "project_id": "crypto-analyzer-228523",
-    "private_key_id": "e8dd416b15540734265f57d2d45fb68e8f47d80a",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRzHJ/AWf+17pf\nK9wfccDTBUm+nWdMrFPloec0/kJSdhCihNKv6s0KKW3VMK1Y/9cKETgAKtUqE1w7\n8LPgY7FGLvEeR+SsEKM6+pse0N6WbZG8U3s2dUFlLUIOGH/rH37EJPeXrEDlW1ws\nlwb/N9+QPhLhVMkQUyTm7u0zkgOIDiEI97Eu1n9r3TIewutB2MfMdwJpGH31A6W1\nq+4Aq9UE3wiVZxa1qtr50m/lAy1kX45ILZNKH4mFfrrCfySiY997HNqkPmI6Ybns\n7plz3LcJZvSokz8mDxPSkDG5C/JznYQTltNp0ILlH/URzHZ/kCBdmq81xsfUBQsA\n01YEDI7tAgMBAAECggEAIPGx82nFbmufhK676+z/tY7t1WDqvQP5ZxtYy3wiT1C3\nPInHs5FaKFApLbF0kfYpSHCQl1UWWo4KWs7uTicooOOtfvqevJR71bFXyLRIf3Qd\nqJCyeCExmCOMV/QIP4Ab3EVAHukAtvKYVsj/fz7ISOcFzB2k2wf2gCn/thXpr12u\niFJBEFL5D0sj8AGk5DnxEy34aUqqXgllWqfFPt0SAuJWSA0S7ArrmlNpY5vfC4+q\nMIeAChw4iIy0NScATDMtHel+hQliFMPdrJfu7sftaAkGvnHJPR42lwERKpLyZN+A\nTftEMsqKdaeP+w/VbRyWBTXOSIZdrTIyJtnRyFXQTwKBgQDKh74TKiP1P8w/SOMp\nslOCJRDBqEmqMdQHTE4S6kWuLNMOlqqhAN3/gYaSKSi/zs/9op0C5HiRQCSaunQl\nRZx4pq5UtjEC7C6vex+uanX+c3bl469xK4fM1rXvfI4vH1kjIsJZbx/TvDWBaHNK\nssYTU7E+xdlBBSEWL2DEBOv+8wKBgQC4Sm2EE8nloFiiowWXXUlQdNd7z5iPNLUl\n+Df45bHu3kOjlgmoMSanbkCMP9rmmwmKVV+8FJHpS51XtTcvVNX4LjP/ehKtbuQF\ncv/ObCP2bpEgv5upR3mvkZEunNlejAMUyklcpnZED6rQjZRR7Z4luoXLgFknfkF3\nYVSv0ItynwKBgQCYRPByRjectyef2PP5sHo6mhV8FEO2Mxpflk4IyJw09LyF9l85\nB4bhCAgeMdXSR/J2lmEIALBpPFmI/3A9aZXX3DGrvQMiWGJNSvupzZ8C/NrCwqlw\nI7NJHZDSCsp3wVDqKsMGLJc4QQPVVKuB2OE1PLJBKM1LpkiW/m35Ul4AYwKBgGFa\nyCH2xjhtDYXVMvX0TO+Y2eDJGSHFyVBmoUL2LJowhnDbqPxWAsJ+RtEQRpZ+Hnsa\ngLl98FrbHCKiU6XIXkR+O+/hUA6YvxJ13tbwX8smO7qeHiA95vWto5GJQHdm5ZXN\nCxZLxbxMvoLv2AOz0FDECTwo8HAhjXoAS9mZBKGnAoGALpEn56fve0M1BvRXxWI5\nTnnBU1G1T6bBnPRJmqTxxor3J6Cp5g4Zpbe05Kv3Oi+nzSlx1PUfK28UjNupPv/n\n+MoKhGc3NZyaM6w5VHjqBwLEFr7hL9RBtlEgs/54PWHuzjKYIHrTsnNq1neepQXi\n/1QmmV+2h8DsFjGHNMOuj28=\n-----END PRIVATE KEY-----\n",
-    "client_email": "keykayabotdata@crypto-analyzer-228523.iam.gserviceaccount.com",
+    "project_id": "X",
+    "private_key_id": "X",
+    "private_key": "X",
+    "client_email": "X@crypto-X-228523.iam.X.com",
     "client_id": "108537815688699308503",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
     "token_uri": "https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/keykayabotdata%40crypto-analyzer-228523.iam.gserviceaccount.com"
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/X%X-analyzer-X.iam.X.com"
   }
